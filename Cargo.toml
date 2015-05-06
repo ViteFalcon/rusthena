@@ -1,0 +1,4 @@
+[package]
+name = "rusthena"
+version = "0.1.0"
+authors = ["ViteFalcon <abigu3282@gmail.com>"]
